@@ -1,0 +1,26 @@
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+    .signIn {
+        padding: 1em 0.5em;
+    }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 414px) {
+    .signIn {
+        padding: 2em;
+    }
+}
+
+h2 {
+    font-size: 45px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 270px;
+    font-size: 16px;
+}
+
+button {
+    width: 285px;
+}
